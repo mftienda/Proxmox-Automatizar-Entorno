@@ -3,4 +3,4 @@
 ## Nos muestra todos los recursos y pools del clúster
 `pvesh get /cluster/resources`
 
-![img](/img/recursos.png)
+![img](img/recursos.png)
