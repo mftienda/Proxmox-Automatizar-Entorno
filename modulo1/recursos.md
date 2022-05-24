@@ -1,6 +1,6 @@
 # Recursos del Clúster
 
-## Nos muestra todos los recursos y pools del clúster
+## Nos muestra los recursos del clúster
 `pvesh get /cluster/resources`
 
 ![img](img/recursos.png)
