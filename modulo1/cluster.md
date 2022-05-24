@@ -1,22 +1,26 @@
 # Conociendo el Clúster
 
-## Muestra el menú asociado al Clúster
-`pvesh get /cluster`
+## Versión de Proxmox.
+`pvesh get /version`
 
-![img](img/menu.png)
+![img](img/version.png)
 
-
-## Nos muestra los recursos del clúster
+## Nos muestra los recursos del clúster.
 `pvesh get /cluster/resources`
 
 ![img](img/recursos.png)
 
-## Nos muestra el almacenamiento
+## Nos muestra el almacenamiento.
 `pvesh get /storage`
 
 ![img](img/almacenamiento.png)
 
-## Nos muestra los pools existentes
+## Nos muestra los pools existentes.
 `pvesh get pools`
 
 ![img](img/pools.png)
+
+## Nos muestra información de los nodos.
+`pvesh get /nodes `
+
+![img](img/nodos.png)
