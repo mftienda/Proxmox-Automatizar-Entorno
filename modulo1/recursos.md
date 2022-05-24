@@ -1,5 +1,11 @@
 # Recursos del Clúster
 
+## Muestra el menú asociado al Clúster
+`pvesh get /cluster`
+
+![img](img/menu.png)
+
+
 ## Nos muestra los recursos del clúster
 `pvesh get /cluster/resources`
 
