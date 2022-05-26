@@ -14,8 +14,8 @@ Segundo Campo: Contraseña
 2.- Lee del fichero usuarios.txt y extrae el usuario y contraseña
 
 3.- Crea los usuarios y los añade al grupo anterior.
-
-`#!/bin/bash
+`
+#!/bin/bash
 clear
 echo "*********************************************************************************"
 echo "CREACIÓN MASIVA DE USUARIOS.\n"
@@ -48,5 +48,6 @@ done <"$ruta"
 echo "\n El grupo y los usuarios creados: \n"
 echo "Grupo: $grupo"
 pvesh get /access/groups/"$grupo"
-echo "\n ***** Fin ******"`
+echo "\n ***** Fin ******"
+`
 
