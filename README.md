@@ -19,12 +19,14 @@ Estamos en un centro educativo y necesitamos:
 
 - Deshacer la estructura anterior.
 
-La información estará guardada en un fichero llamado ** usuarios.txt ** .
+La información estará guardada en un fichero llamado **usuarios.txt** .
 
 Ese fichero puede ser lo complejo que se necesite. Para simplificarlo hemos supuesto que dicho fichero solo tiene dos campos:
 
 nombre de usuario: contraseña
+
 alumno01:contra01
+
 alumno02:contra02
 
 
