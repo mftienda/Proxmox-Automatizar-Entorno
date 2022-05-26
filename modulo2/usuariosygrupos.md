@@ -37,16 +37,19 @@ pve: Representa el ámbito: Proxmox VE authentication server
 
 ## Añadir un usuario a un grupo
 
-### Creamos el grupo: asir2
+#### Creamos el grupo: asir2
 `pvesh create /access/groups --groupid asir2`
 
-### Creamos el usuario: heidi
+#### Creamos el usuario: heidi
 `pvesh create /access/users --userid heidi@pve --password "heidi"`
 
 #### Añadimos el usuario a dicho grupo
 `pvesh set /access/users/heidi@pve --groups asir2`
 
 ![img](img/heidiasir2.png)
+
+
+#### Quitar un usuario de un grupo
 
 
 
