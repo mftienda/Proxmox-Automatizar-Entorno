@@ -1,5 +1,21 @@
 # Usuarios y grupos 
 
+## Información de los usuarios
+
+`pvesh get /access/users`
+
+![img](img/usuarios.png)
+
+## Crear un usuario con contraseña 
+`pvesh create /access/users --userid heidi@pve --password "heidi"`
+
+pve: Representa el ámbito: Proxmox VE authentication server
+
+![img](img/heidi.png)
+
+## Borrar un usuario
+`pvesh delete /access/users/heidi@pve`
+
 ##  Información de los grupos
 
 `pvesh get /access/groups`
@@ -17,22 +33,6 @@
 `pvesh delete /access/groups/asir2`
 
 ![img](img/asir2b.png)
-
-## Información de los usuarios
-
-`pvesh get /access/users`
-
-![img](img/usuarios.png)
-
-## Crear un usuario con contraseña 
-`pvesh create /access/users --userid heidi@pve --password "heidi"`
-
-pve: Representa el ámbito: Proxmox VE authentication server
-
-![img](img/heidi.png)
-
-## Borrar un usuario
-`pvesh delete /access/users/heidi@pve`
 
 
 ## Añadir un usuario a un grupo
