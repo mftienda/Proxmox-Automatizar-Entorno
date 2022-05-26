@@ -54,7 +54,11 @@ Espero que alguién le pueda servir.
 
  - [Gestión de pools](modulo3/gestionpools.md)
  
- - [Script: Creación de pools](modulo3/creacionpools.md)
+ - [Script: Creación de usuarios y pools](modulo3/creacionpools.md)
+ 
+4. Almacenamiento
+  - [Gestion de almacenamiento](modulo4/gestionalmacenamiento.md)
+  - [Script: Añadimos los almacenamientos a los pools](modulo4/asignacionalmacenamiento.md)
  
 
 ## Referencias
