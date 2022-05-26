@@ -60,6 +60,11 @@ Espero que alguién le pueda servir.
   - [Gestion de almacenamiento](modulo4/gestionalmacenamiento.md)
   - [Script: Añadimos los almacenamientos a los pools](modulo4/asignacionalmacenamiento.md)
  
+5. Permisos y roles
+
+6. Script completo
+
+7.- Deshacer la estructura
 
 ## Referencias
   * [proxmox](https://pve.proxmox.com/pve-docs/api-viewer)
