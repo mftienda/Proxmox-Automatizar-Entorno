@@ -1,7 +1,9 @@
 # Creación masiva de usuarios
 
 ## usuarios.txt
+
 usuario01:contra01
+
 usuario02:contra02
 
 Primer campo: Nombre de usuario
