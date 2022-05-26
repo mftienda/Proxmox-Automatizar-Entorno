@@ -6,7 +6,7 @@ Vamos a crear:
 - Los usuarios.
 - Un pool para cada usuario.
 
-[creacionpools.sh](creacionpools.sh)
+[creacionusuariospools.sh](creacionusuariospools.sh)
 
 ```
 #!/bin/bash
