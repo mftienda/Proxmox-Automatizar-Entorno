@@ -16,18 +16,18 @@ Creación de pools.
 ## Contenidos
 1. Conociendo el Clúster
 
-[Conociendo el Clúster](modulo1/cluster.md)
+  * [Conociendo el Clúster](modulo1/cluster.md)
 
 2. Gestión de usuarios y grupos
 
-[Gestión de usarios y grupos](modulo2/usuariosygrupos.md)
+  * [Gestión de usarios y grupos](modulo2/usuariosygrupos.md)
 
-[Script: Creación masiva de usuarios](modulo2/creacionusuarios.md)
+  * [Script: Creación masiva de usuarios](modulo2/creacionusuarios.md)
 
-[Script: Eliminación masiva de usuarios](modulo2/eliminacionusuarios.md)
+  * [Script: Eliminación masiva de usuarios](modulo2/eliminacionusuarios.md)
 
 ## Referencias
-[proxmox](https://pve.proxmox.com/pve-docs/api-viewer)
+  * [proxmox](https://pve.proxmox.com/pve-docs/api-viewer)
 
 ## Licencia
 
