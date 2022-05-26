@@ -5,15 +5,15 @@ La idea de este proyecto es automatizar un entorno de trabajo real.
 
 Estamos en un centro educativo y necesitamos:
 
-- Crear grupos de trabajo para alumnos y profesores.
+- Crear grupos de trabajo para alumnos.
 
 - Crear usuarios y asignarles un determinado grupo.
 
-- Crear pools (recursos).
+- Crear pools uno para cada alumno(Proyecto.NombreAlumno) y uno común para guardar las plantillas (imagenes).
 
 - Crear nuevos roles.
 
-- Asignar a usuarios o a grupos permisos (roles) sobre los pools creados anteriormente.
+- Asignar a usuarios o a grupo,s permisos (roles) sobre los pools creados anteriormente.
 
 - Poner a disposición de los usuarios plantillas de contenedores y máquinas virtuales.
 
@@ -54,7 +54,7 @@ Espero que alguién le pueda servir.
 
  - [Gestión de pools](modulo3/gestionpools.md)
  
- - [Script: Creación de usuarios y pools](modulo3/creacionpools.md)
+ - [Script: Creación de usuarios y pools](modulo3/creacionusuariospools.md)
  
 4. Almacenamiento
   - [Gestion de almacenamiento](modulo4/gestionalmacenamiento.md)
