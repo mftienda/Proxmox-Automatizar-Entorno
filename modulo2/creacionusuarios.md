@@ -15,6 +15,7 @@ Segundo Campo: Contraseña
 
 3.- Crea los usuarios y los añade al grupo anterior.
 
+```
 #!/bin/bash
 clear
 echo "*********************************************************************************"
@@ -49,5 +50,5 @@ echo "\n El grupo y los usuarios creados: \n"
 echo "Grupo: $grupo"
 pvesh get /access/groups/"$grupo"
 echo "\n ***** Fin ******"
-
+```
 
