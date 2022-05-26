@@ -4,4 +4,4 @@
 
 `pvesh get pools`
 
-![img](pools.png)
+![img](img/pools.png)
