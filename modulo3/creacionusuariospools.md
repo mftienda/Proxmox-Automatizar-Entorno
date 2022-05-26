@@ -4,7 +4,8 @@ Vamos a crear:
 
 - El grupo.  
 - Los usuarios.
-- Un pool para cada usuario.
+- un pool compartido para depositar posteriormente las plantillas (imagenes)
+- Un pool para cada usuario (Proyecto.NombreAlumno)
 
 [creacionusuariospools.sh](creacionusuariospools.sh)
 
