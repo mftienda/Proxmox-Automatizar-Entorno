@@ -15,6 +15,8 @@ Segundo Campo: Contraseña
 
 3.- Crea los usuarios y los añade al grupo anterior.
 
+[usuarios.txt](usuarios.txt)
+
 [creacionusuarios.sh](creacionusuarios.sh)
 
 ```
