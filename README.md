@@ -3,7 +3,7 @@
 
 La idea de este proyecto es automatizar un entorno de trabajo real.
 
-- Estamos en un centro educativo y necesitamos:
+Estamos en un centro educativo y necesitamos:
 
 - Crear grupos de trabajo para alumnos y profesores.
 
@@ -24,13 +24,15 @@ La información estará guardada en un fichero llamado ** usuarios.txt ** .
 Ese fichero puede ser lo complejo que se necesite. Para simplificarlo hemos supuesto que dicho fichero solo tiene dos campos:
 
 nombre de usuario: contraseña
+alumno01:contra01
+alumno02:contra02
 
 
 Veremos los comandos necesarios para automatizar el proceso.
 
-Vamos a crear pequeños scripts, que vayan incrementando cada uno de los apartados.
+Vamos a crear **pequeños scripts**, que vayan incrementando cada uno de los apartados.
 
-Para finalizar lo haremos todo en un script final.
+Para finalizar lo haremos todo en un **script final**.
 
 Espero que alguién le pueda servir.
 
