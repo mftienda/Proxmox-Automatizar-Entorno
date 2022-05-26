@@ -52,9 +52,9 @@ Espero que alguién le pueda servir.
 
 3. Creación de pools
 
- - [Creación de pools](modulo3/creacionpools.md)
+ - [Gestión de pools](modulo3/gestionpools.md)
  
- -[Script: Creación de pools](modulo3/creacionpools.sh)
+ - [Script: Creación de pools](modulo3/creacionpools.md)
  
 
 ## Referencias
