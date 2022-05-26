@@ -1,6 +1,6 @@
 # Añadimos los almacenamientos: local y local-lvm a los pools creados anteriormente
 
-[creacionusuariospoolsalmacenamiento](creacionusuariospoolsalmacenamiento.sh)
+[creacionusuariospoolsalmacenamiento.sh](creacionusuariospoolsalmacenamiento.sh)
 
 ```
 #!/bin/bash
