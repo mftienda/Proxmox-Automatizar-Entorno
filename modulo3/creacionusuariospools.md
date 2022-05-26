@@ -17,6 +17,7 @@ echo "CREACIÓN MASIVA DE USUARIOS y POOLS.\n"
 echo "Se preguntará: \n"
 echo "Nombre del grupo\n"
 echo "Ruta del archivo usuarios ( nombre_usuario:contraseña:\n"
+echo "Se creará un pool compartido para depositar posteriormente las plantillas:imagenes"
 echo "Se creará un pool: Proyecto.NombreUsuario por cada usuario"
 echo "*********************************************************************************"
 echo "\n"
@@ -44,6 +45,8 @@ pvesh set /access/users/"$usuario"@pve --groups "$grupo"
 pvesh create pools -poolid "Proyecto.$usuario"
 echo "Proyecto.$usuario" >>proyectos.tmp
 done <"$ruta"
+#Creamos el pool imagenes
+pvesh create pools -poolid imagenes
 echo "--------------Infome ---------------"
 echo "Grupo creado: $grupo"
 echo "Usuarios del grupo: \n"
