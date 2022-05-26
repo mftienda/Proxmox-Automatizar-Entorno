@@ -20,3 +20,5 @@
  `pvesh delete /pools/Proyecto.usuario01`
  
  ![img](img/pools.png)
+ 
+ Solo podemos borrar los pools vacíos.
