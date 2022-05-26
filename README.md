@@ -58,7 +58,7 @@ Espero que alguién le pueda servir.
  
 4. Almacenamiento
   - [Gestion de almacenamiento](modulo4/gestionalmacenamiento.md)
-  - [Script: Añadimos los almacenamientos a los pools](modulo4/asignacionalmacenamiento.md)
+  - [Script: Añadimos los almacenamientos a los pools](modulo4/creacionusuariospoolsalmacenamiento.md)
  
 5. Permisos y roles
 
