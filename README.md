@@ -15,6 +15,8 @@ Clonación de máquinas virtuales
 
 ## Contenidos
 1. [Conociendo el Clúster](modulo1/cluster.md)
+2. [Gestión de usarios y grupos](modulo2/usuariosygrupos.md)
+3. 
 
 ## Referencias
 [proxmox](https://pve.proxmox.com/pve-docs/api-viewer)
