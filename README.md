@@ -60,10 +60,13 @@ Espero que alguién le pueda servir.
   - [Script: Añadimos los almacenamientos a los pools](modulo4/creacionusuariospoolsalmacenamiento.md)
  
 5. Permisos y roles
+  - [Gestion de permisos](modulo5/gestionpermisos.md)
+  - [Script: Añadimos permisos (roles) a los pools](modulo5/creacionusuariospoolsalmacenamientopermisos.md)
 
-6. Script completo
+6. Plantillas
 
-7.- Deshacer la estructura
+7. Script completo
+
 
 ## Referencias
   * [José Domingo Muñoz](https://plataforma.josedomingo.org/pledin/)
