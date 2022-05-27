@@ -59,9 +59,9 @@ Espero que alguién le pueda servir.
   - [Gestion de almacenamiento](modulo4/gestionalmacenamiento.md)
   - [Script: Añadimos los almacenamientos a los pools](modulo4/creacionusuariospoolsalmacenamiento.md)
  
-5. Permisos y roles
-  - [Gestion de permisos](modulo5/gestionpermisos.md)
-  - [Script: Añadimos permisos (roles) a los pools](modulo5/creacionusuariospoolsalmacenamientopermisos.md)
+5. Roles y permisos
+  - [Gestion de roles](modulo5/gestionroles.md)
+  - [Script: Añadimos permisos (roles) a los pools](modulo5/creacionusuariospoolsalmacenamientoroles.md)
 
 6. Plantillas
 
