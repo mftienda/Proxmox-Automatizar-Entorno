@@ -13,7 +13,7 @@ Vamos a crear:
 - El grupo.  
 - Los usuarios.
 - un pool compartido para depositar posteriormente las plantillas (imagenes)
-- Un pool para cada usuario (Proyecto.NombreAlumno)
+- **Un pool para cada usuario (Proyecto.NombreAlumno)**.
 
 [creacionusuariospools.sh](creacionusuariospools.sh)
 
