@@ -57,7 +57,7 @@ Espero que alguién le pueda servir.
 
 6. Script completo
   - [Script completo](modulo6/creacionentorno.md)
-  - [Vídeo script](Falta el enlace)
+  - [Vídeo script](https://youtu.be/2FUrh9geXwQ)
 
 7.- Plantillas
 - [Gestion de plantillas](modulo7/gestionplantillas.md)
