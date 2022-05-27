@@ -16,7 +16,7 @@ Vamos a crear:
 - un pool compartido para depositar posteriormente las plantillas (imagenes)
 - Un pool para cada usuario (Proyecto.NombreAlumno)
 - Añadiremos los almacenamientos local y local-lvm a los pools creados"
-- Asignaremos a los pools los roles para que los alumnos puedan acceder.
+- **Asignaremos a los pools los roles para que los alumnos puedan acceder.
 
 [creacionusuariospoolsalmacenamiento.sh](creacionusuariospoolsalmacenamientoroles.sh)
 
@@ -33,6 +33,7 @@ Después permiteremos que el grupo de alumnos, sobre ese pool, tenga ese rol.
 Vamos a crea un nuevo rol: **rol_proyecto** que permita que cada alumno poder acceder a su pool y crear objetos.
 
 Permisos: 
+
 Datastore.AllocateSpace
 Datastore.Audit
 Permissions.Modify
