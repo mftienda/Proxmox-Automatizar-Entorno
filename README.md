@@ -31,9 +31,6 @@ alumno02:contra02
 
 Veremos los comandos necesarios para automatizar el proceso.
 
-Vamos a crear **pequeños scripts**, que vayan incrementando cada uno de los apartados.
-
-Para finalizar lo haremos todo en un **script final**.
 
 Espero que alguién le pueda servir.
 
@@ -47,26 +44,22 @@ Espero que alguién le pueda servir.
 
   - [Gestión de usarios y grupos](modulo2/usuariosygrupos.md)
 
-  - [Script: Creación masiva de usuarios](modulo2/creacionusuarios.md)
-
-3. Creación de pools
+  3. Creación de pools
 
  - [Gestión de pools](modulo3/gestionpools.md)
  
- - [Script: Creación de usuarios y pools](modulo3/creacionusuariospools.md)
- 
+
 4. Almacenamiento
   - [Gestion de almacenamiento](modulo4/gestionalmacenamiento.md)
-  - [Script: Añadimos los almacenamientos a los pools](modulo4/creacionusuariospoolsalmacenamiento.md)
  
 5. Roles y permisos
   - [Gestion de roles](modulo5/gestionroles.md)
-  - [Script: Añadimos permisos (roles) a los pools](modulo5/creacionusuariospoolsalmacenamientoroles.md)
 
 6. Plantillas
 
 7. Script completo
-
+  - [Script completo](modulo7/creacionentorno.sh)
+  - [Vídeo script](Falta el enlace)
 
 ## Referencias
   * [José Domingo Muñoz](https://plataforma.josedomingo.org/pledin/)
