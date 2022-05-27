@@ -67,4 +67,5 @@ Espero que alguién le pueda servir.
   * [proxmox](https://pve.proxmox.com/pve-docs/api-viewer)
 
 ## Licencia
+[!image](licencia.png)
 
