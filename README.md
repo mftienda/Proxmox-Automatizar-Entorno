@@ -56,11 +56,11 @@ Espero que alguién le pueda servir.
   - [Gestion de roles](modulo5/gestionroles.md)
 
 6. Script completo
-  - [Script completo](modulo7/creacionentorno.md)
+  - [Script completo](modulo6/creacionentorno.md)
   - [Vídeo script](Falta el enlace)
 
 7.- Plantillas
-- [Gestion de plantillas](gestionplantillas.md)
+- [Gestion de plantillas](modulo7/gestionplantillas.md)
 ## Referencias
   * [José Domingo Muñoz](https://plataforma.josedomingo.org/pledin/)
   * [proxmox](https://pve.proxmox.com/pve-docs/api-viewer)
