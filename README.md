@@ -1,4 +1,4 @@
-# Proxmox: Línea de comandos.
+# Proxmox: Automatizar un entorno de trabajo.
 ## Descripción
 
 La idea de este proyecto es automatizar un entorno de trabajo real.
@@ -13,7 +13,7 @@ Estamos en un centro educativo y necesitamos:
 
 - Crear nuevos roles.
 
-- Asignar a usuarios o a grupos permisos (roles) sobre los pools creados anteriormente.
+- Asignar a usuarios o a grupos, permisos (roles) sobre los pools creados anteriormente.
 
 - Poner a disposición de los usuarios plantillas de contenedores y máquinas virtuales.
 
