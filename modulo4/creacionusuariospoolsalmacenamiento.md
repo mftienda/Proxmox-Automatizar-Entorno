@@ -15,7 +15,7 @@ Vamos a crear:
 - Los usuarios y se añadirán al grupo.
 - un pool compartido para depositar posteriormente las plantillas (imagenes)
 - Un pool para cada usuario (Proyecto.NombreAlumno)
-- Añadiremos los almacenamientos local y local-lvm a los pools creados"
+- **Añadiremos los almacenamientos local y local-lvm a los pools creados**.
 
 [creacionusuariospoolsalmacenamiento.sh](creacionusuariospoolsalmacenamiento.sh)
 
