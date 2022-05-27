@@ -11,11 +11,11 @@ Segundo Campo: Contraseña
 
 ## Descripción de script:
 
-1.- Pregunta el grupo de usuarios y lo crea.
+1.- **Pregunta el grupo de usuarios y lo crea**.
 
-2.- Lee del fichero usuarios.txt y extrae el usuario y contraseña
+2.- **Lee del fichero usuarios.txt y extrae el usuario y contraseña**.
 
-3.- Crea los usuarios y los añade al grupo anterior.
+3.- **Crea los usuarios y los añade al grupo anterior**.
 
 [usuarios.txt](usuarios.txt)
 
