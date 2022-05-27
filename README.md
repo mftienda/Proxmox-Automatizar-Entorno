@@ -17,7 +17,6 @@ Estamos en un centro educativo y necesitamos:
 
 - Poner a disposición de los usuarios plantillas de contenedores y máquinas virtuales.
 
-- Deshacer la estructura anterior.
 
 La información estará guardada en un fichero llamado **usuarios.txt** .
 
@@ -67,6 +66,7 @@ Espero que alguién le pueda servir.
 7.- Deshacer la estructura
 
 ## Referencias
+  * [José Domingo Muñoz](https://plataforma.josedomingo.org/pledin/)
   * [proxmox](https://pve.proxmox.com/pve-docs/api-viewer)
 
 ## Licencia
