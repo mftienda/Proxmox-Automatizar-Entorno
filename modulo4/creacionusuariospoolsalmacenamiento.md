@@ -1,5 +1,22 @@
 # Añadimos los almacenamientos: local y local-lvm a los pools creados anteriormente
 
+**usuarios.txt**
+
+usuario01:contra01
+
+usuario02:contra02
+
+Primer campo: Nombre de usuario Segundo Campo: Contraseña
+
+Vamos a crear:
+
+
+- El grupo.  
+- Los usuarios y se añadirán al grupo.
+- un pool compartido para depositar posteriormente las plantillas (imagenes)
+- Un pool para cada usuario (Proyecto.NombreAlumno)
+- Añadiremos los almacenamientos local y local-lvm a los pools creados"
+
 [creacionusuariospoolsalmacenamiento.sh](creacionusuariospoolsalmacenamiento.sh)
 
 ```
