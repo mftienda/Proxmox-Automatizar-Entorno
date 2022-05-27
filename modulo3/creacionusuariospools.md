@@ -1,5 +1,12 @@
 # Creación masiva de Pools
 
+usuarios.txt
+usuario01:contra01
+
+usuario02:contra02
+
+Primer campo: Nombre de usuario Segundo Campo: Contraseña
+
 Vamos a crear:
 
 - El grupo.  
