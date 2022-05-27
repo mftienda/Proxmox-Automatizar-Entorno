@@ -55,13 +55,12 @@ Espero que alguién le pueda servir.
 5. Roles y permisos
   - [Gestion de roles](modulo5/gestionroles.md)
 
-6. Plantillas
-  - [Gestión de plantillas](modulo6/gestionplantillas.md)
-
-7. Script completo
+6. Script completo
   - [Script completo](modulo7/creacionentorno.md)
   - [Vídeo script](Falta el enlace)
 
+7.- Plantillas
+- [Gestion de plantillas](gestionplantillas.md)
 ## Referencias
   * [José Domingo Muñoz](https://plataforma.josedomingo.org/pledin/)
   * [proxmox](https://pve.proxmox.com/pve-docs/api-viewer)
