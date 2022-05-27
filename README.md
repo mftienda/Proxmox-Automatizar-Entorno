@@ -9,11 +9,11 @@ Estamos en un centro educativo y necesitamos:
 
 - Crear usuarios y asignarles un determinado grupo.
 
-- Crear pools uno para cada alumno(Proyecto.NombreAlumno) y uno común para guardar las plantillas (imagenes).
+- Crear pools: uno para cada alumno(Proyecto.NombreAlumno) y uno común para guardar las plantillas (imagenes).
 
 - Crear nuevos roles.
 
-- Asignar a usuarios o a grupo,s permisos (roles) sobre los pools creados anteriormente.
+- Asignar a usuarios o a grupos permisos (roles) sobre los pools creados anteriormente.
 
 - Poner a disposición de los usuarios plantillas de contenedores y máquinas virtuales.
 
