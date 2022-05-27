@@ -56,9 +56,10 @@ Espero que alguién le pueda servir.
   - [Gestion de roles](modulo5/gestionroles.md)
 
 6. Plantillas
+  - [Gestión de plantillas](modulo6/gestionplantillas.md)
 
 7. Script completo
-  - [Script completo](modulo7/creacionentorno.sh)
+  - [Script completo](modulo7/creacionentorno.md)
   - [Vídeo script](Falta el enlace)
 
 ## Referencias
