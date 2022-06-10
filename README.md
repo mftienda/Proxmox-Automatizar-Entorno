@@ -56,8 +56,10 @@ Espero que alguién le pueda servir.
   - [Gestion de roles](modulo5/gestionroles.md)
 
 6. Script completo
-  - [Script completo](modulo6/creacionentorno.md)
+  - [Creación del entorno](modulo6/creacionentorno.md)
+  
   - [Vídeo script](https://youtu.be/2FUrh9geXwQ)
+  - [Destruir el entorno](modulo6/destruirentorno.md)
 
 7.- Plantillas
 - [Gestion de plantillas](modulo7/gestionplantillas.md)
